@@ -1,5 +1,23 @@
+# C/C++ build artifacts
 *.exe
-*.obj
+*.out
 *.o
-*.log
+*.obj
+*.a
+*.so
+*.dll
+
+# IDE and compiler folders
 .vs/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local downloader output
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.mov
